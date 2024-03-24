@@ -36,3 +36,8 @@ body{
 .box-shadow{
     padding: 5%;
 }
+.input-style{
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
